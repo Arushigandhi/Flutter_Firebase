@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709617039245",
+    "project_id": "santanet-task-437dd",
+    "storage_bucket": "santanet-task-437dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709617039245:android:506bb6a23de7679fc7afc4",
+        "android_client_info": {
+          "package_name": "com.example.futter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709617039245-rl8djmkki63ga4f5iisr004c41i68kaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EWbu3rIyqjr6pr3rcTucmCFwfF-D9qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709617039245-rl8djmkki63ga4f5iisr004c41i68kaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
