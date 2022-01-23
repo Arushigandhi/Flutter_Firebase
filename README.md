@@ -1,6 +1,6 @@
 # futter_firebase
 
-A new Flutter project.
+A new Flutter project. Trying out flutter integration with Firebase.
 
 ## Getting Started
 
